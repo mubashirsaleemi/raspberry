@@ -1,0 +1,2 @@
+/Users/mubashirahmed/ws/node/raspberry/server/CMakeFiles/rebuild_cache.dir
+/Users/mubashirahmed/ws/node/raspberry/server/CMakeFiles/edit_cache.dir
